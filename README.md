@@ -5,8 +5,6 @@ Here you can see my portfolio
 https://danielbergmann.me/portfolio.html
 
 
-
-
 <!--
 **daniel-bergmann/daniel-bergmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
