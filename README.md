@@ -2,7 +2,7 @@
                                             🔭  Check out my portfolio 🔭
                                                   
 
-                                     ✨ https://danielbergmann.me/portfolio.html ✨
+                                            ✨ https://danielbergmann.me/ ✨
                                      
 
 <!--
