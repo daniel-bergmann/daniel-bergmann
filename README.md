@@ -1,8 +1,7 @@
                                                   ### Hi there 👋
-                                            🔭  Check out my portfolio 🔭
                                                   
 
-                                            ✨ https://danielbergmann.me/ ✨
+                                           🖕( ͡❛ ͜ʖ ͡❛)
                                      
 
 <!--
