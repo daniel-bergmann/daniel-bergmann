@@ -1,3 +1,4 @@
-``while understanding < perfect:
+```
+while understanding < perfect:
     practice()
-``
+```
