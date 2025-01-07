@@ -1,4 +1,1 @@
-```
-while understanding < perfect:
-    practice()
-```
+Hi there, I'm Daniel 🍻
